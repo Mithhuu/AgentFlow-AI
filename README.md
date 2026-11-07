@@ -244,7 +244,7 @@ This project is intended to provide practical experience in:
 
 **Developed by Mithhuu**
 
-BCA Honours Student | Aspiring AI/ML Engineer
+BCA  Student | Aspiring AI/ML Engineer
 
 This project is part of my journey towards developing practical skills in Artificial Intelligence, Machine Learning, and intelligent agent systems.
 
